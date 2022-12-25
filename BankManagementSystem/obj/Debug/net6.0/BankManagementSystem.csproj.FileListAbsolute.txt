@@ -1,0 +1,15 @@
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\bin\Debug\net6.0\BankManagementSystem.exe
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\bin\Debug\net6.0\BankManagementSystem.deps.json
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\bin\Debug\net6.0\BankManagementSystem.runtimeconfig.json
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\bin\Debug\net6.0\BankManagementSystem.dll
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\bin\Debug\net6.0\BankManagementSystem.pdb
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\BankManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\BankManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\BankManagementSystem.AssemblyInfo.cs
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\BankManagementSystem.dll
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\refint\BankManagementSystem.dll
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\BankManagementSystem.pdb
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\BankManagementSystem.genruntimeconfig.cache
+C:\Users\Juice\source\repos\DOTNET Task 1\BankManagementSystem\obj\Debug\net6.0\ref\BankManagementSystem.dll
