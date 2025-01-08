@@ -1,6 +1,6 @@
 # Bank Management System.
 
-Compiled using Visual Studio 2022 Community Edition
+Made in .NET and Compiled using Visual Studio 2022 Community Edition
 
 There are 3 allowed username/password combinations to be used at the login screen.
 Allowed logins:
