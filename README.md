@@ -1,4 +1,4 @@
-# Bank Management System.
+# Bank Management System (Console app)
 
 Made in .NET and Compiled using Visual Studio 2022 Community Edition
 
